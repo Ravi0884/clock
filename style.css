@@ -65,7 +65,7 @@ body{
     position: absolute;
     width: 8px;
     height: 80px;
-    background: #ff105e;
+    background: #837bf8;
     z-index: 10;
     border-radius: 6px 6px 0 0;
 }
@@ -74,7 +74,7 @@ body{
     position: absolute;
     width: 4px;
     height: 90px;
-    background: #ff105e;
+    background: #fff456;
     z-index: 10;
     border-radius: 6px 6px 0 0;
 }
@@ -83,7 +83,7 @@ body{
     position: absolute;
     width: 2px;
     height: 150px;
-    background: #ff105e;
+    background: rgb(250, 246, 246);
     z-index: 12;
     border-radius: 6px 6px 0 0;
 }
